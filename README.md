@@ -1,9 +1,20 @@
-### Hi there 👋
+<h1 align="center">Hello there!</h1>
+
+<h4>My name is Balázs Szolcsánszki (SzoBa) and I'm a junior Full Stack Developer.</h3>
+
+
+<a href="https://www.linkedin.com/in/balazs-szolcsanszki/">
+  <img align="center" alt="LinkedIn" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+</br></br>
+Ever since I was a kid, computers have been my passion. After several years of working in the FMCG sector, I decided on a career change.
+</br></br>
+
+**My skills/interests:**
+
 
 <!--
 **SzoBa/SzoBa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
