@@ -17,6 +17,10 @@ Ever since I was a kid, computers have been my passion. After several years of w
   <img src="/images/git.png" height="25">
   <img src="/images/javascript.png" height="25">
   <img src="/images/node.png" height="25">
+  <img src="/images/php.png" height="25">
+  <img src="/images/laravel.png" height="25">
+  <img src="/images/apache.png" height="25">
+  <img src="/images/react.png" height="25">
   <img src="/images/java.png" height="25">
   <img src="/images/mariadb.png" height="25">
   <img src="/images/mysql.png" height="25">
