@@ -13,6 +13,7 @@ Ever since I was a kid, computers have been my passion. After several years of w
 **My skills/interests:**
 <p>
   <img src="/images/css.png" height="25">
+    <img src="/images/html.png" height="25">
 </p>
 
 
