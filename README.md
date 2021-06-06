@@ -14,6 +14,9 @@ Ever since I was a kid, computers have been my passion. After several years of w
 <p>
   <img src="/images/css.png" height="25">
   <img src="/images/html.png" height="25">
+  <img src="/images/git.png" height="25">
+  <img src="/images/javascript.png" height="25">
+  <img src="/images/node.png" height="25">
   <img src="/images/java.png" height="25">
   <img src="/images/mariadb.png" height="25">
   <img src="/images/mysql.png" height="25">
@@ -22,7 +25,7 @@ Ever since I was a kid, computers have been my passion. After several years of w
 
 
 <!--
-**SzoBa/SzoBa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Additional images: Angular
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
