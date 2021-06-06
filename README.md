@@ -4,7 +4,7 @@
 
 
 <a href="https://www.linkedin.com/in/balazs-szolcsanszki/">
-  <img align="center" alt="LinkedIn" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="center" alt="LinkedIn" height="25" src="/images/linkedin.png" />
 </a>
 </br></br>
 Ever since I was a kid, computers have been my passion. After several years of working in the FMCG sector, I decided on a career change.
@@ -13,7 +13,7 @@ Ever since I was a kid, computers have been my passion. After several years of w
 **My skills/interests:**
 <p>
   <img src="/images/css.png" height="25">
-    <img src="/images/html.png" height="25">
+  <img src="/images/html.png" height="25">
 </p>
 
 
