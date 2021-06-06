@@ -15,6 +15,8 @@ Ever since I was a kid, computers have been my passion. After several years of w
   <img src="/images/css.png" height="25">
   <img src="/images/html.png" height="25">
   <img src="/images/java.png" height="25">
+  <img src="/images/mariadb.png" height="25">
+  <img src="/images/mysql.png" height="25">
   <img src="/images/postgres.png" height="25">
 </p>
 
