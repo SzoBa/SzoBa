@@ -12,7 +12,8 @@ Ever since I was a kid, computers have been my passion. After several years of w
 
 **My skills/interests:**
 <p>
-    <img src="/images/java.png" height="25">
+  <img src="/images/java.png" height="25">
+  
   <img src="/images/javascript.png" height="25">
   <img src="/images/node.png" height="25">
   <img src="/images/react.png" height="25">
@@ -26,12 +27,13 @@ Ever since I was a kid, computers have been my passion. After several years of w
   <img src="/images/postgres.png" height="25">
 </p>
 <p>
+  
   <img src="/images/php.png" height="25">
   <img src="/images/laravel.png" height="25">
   <img src="/images/apache.png" height="25">
+  <img src="/images/python.png" height="25">
   
-    <img src="/images/python.png" height="25">
-  </p>
+</p>
 
 <!--
 Additional images: Angular
