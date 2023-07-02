@@ -13,9 +13,9 @@ Ever since I was a kid, computers have been my passion. After several years of w
 **My skills/interests:**
 <p>
   <img src="/images/java.png" height="25">
-  <img src="/images/springboot.png" height="25">
+  <img src="/images/springboot.jpg" height="25">
   
-  <img src="/images/jenkins.png" height="25">
+  <img src="/images/jenkins.jpg" height="25">
   <img src="/images/react.png" height="25">
   
   <img src="/images/javascript.png" height="25">
