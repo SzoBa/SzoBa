@@ -16,9 +16,9 @@ Ever since I was a kid, computers have been my passion. After several years of w
   <img src="/images/springboot.jpg" height="25">
   <img src="/images/jenkins.jpg" height="25">
   <img src="/images/docker.png" height="25">
-  <img src="/images/mssql.png" height="25">
+  <img src="/images/mssql.jpg" height="25">
   <img src="/images/plsql.png" height="25">
-  <img src="/images/openshift.png" height="25">
+  <img src="/images/openshift.jpg" height="25">
   <img src="/images/claude.png" height="25">
 </p>
 <p>
