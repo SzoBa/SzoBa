@@ -1,6 +1,6 @@
 <h1 align="center">Hello there!</h1>
 
-<h4>My name is Balázs Szolcsánszki (SzoBa) and I'm a junior Full Stack Developer.</h3>
+<h4>My name is Balázs Szolcsánszki (SzoBa) and I'm a Java Developer.</h3>
 
 
 <a href="https://www.linkedin.com/in/balazs-szolcsanszki/">
@@ -16,27 +16,25 @@ Ever since I was a kid, computers have been my passion. After several years of w
   <img src="/images/springboot.jpg" height="25">
   <img src="/images/jenkins.jpg" height="25">
   <img src="/images/docker.png" height="25">
-  
+  <img src="/images/mssql.png" height="25">
+  <img src="/images/plsql.png" height="25">
+  <img src="/images/openshift.png" height="25">
+  <img src="/images/claude.png" height="25">
+</p>
+<p>
   <img src="/images/javascript.png" height="25">
   <img src="/images/node.png" height="25">
   <img src="/images/react.png" height="25">
-
+  <img src="/images/mysql.png" height="25">
+  <img src="/images/plsql.png" height="25">
+</p>
+<p>
   <img src="/images/css.png" height="25">
   <img src="/images/sass.png" height="25">
   <img src="/images/html.png" height="25">
-
-  <img src="/images/git.png" height="25">
-  <img src="/images/mysql.png" height="25">
-  <img src="/images/plsql.png" height="25">
-
-</p>
-<p>
-  
   <img src="/images/php.png" height="25">
-  <img src="/images/laravel.png" height="25">
   <img src="/images/python.png" height="25">
   <img src="/images/postgres.png" height="25">
-    
 </p>
 
 <!--
