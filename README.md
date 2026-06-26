@@ -26,7 +26,6 @@ Ever since I was a kid, computers have been my passion. After several years of w
   <img src="/images/node.png" height="25">
   <img src="/images/react.png" height="25">
   <img src="/images/mysql.png" height="25">
-  <img src="/images/plsql.png" height="25">
 </p>
 <p>
   <img src="/images/css.png" height="25">
